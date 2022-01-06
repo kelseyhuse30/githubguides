@@ -7,3 +7,9 @@ Some guides for doing certain things with GitHub and repl.it.
 * [Import GitHub project into repl.it](repl-import-github.md)
 
 Update
+
+## TestPlan
+To test the project;
+ 
+1. Run the test
+2. Check the resutls
